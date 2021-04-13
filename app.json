@@ -1,7 +1,7 @@
 {
-  "name": "ULTRA X",
-  "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @UltraXChat FOR HELP ",
-  "logo": "https://telegra.ph/file/949acd88c4b9cd4f72485.jpg",
+  "name": "DARKLONX",
+  "description": "THE SUPER USERBOT MADED BY TEAM DARKLON AND TEAM ULTRA AND LEGEND ",
+  "logo": "https://telegra.ph/file/fff3f63dd795411428c7e.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "repository": "https://github.com/DARKLONX/HEROKU/",
+  "website": "https://github.com/DARKLONX/HEROKU/",
+  "success_url": "https://t.me/DARKLONXCHAT",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -34,32 +34,32 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom awake Message When entering .awake command.",
-      "value": "",
+      "value": "DARKLON USER BOT",
       "required": false
     },
     "ALIVE_PHOTTO": {
       "description": "put here any telegraph media link use .awake to show.",
-      "value": "",
+      "value": "https://telegra.ph/file/fff3f63dd795411428c7e.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "",
+      "value": "DARKLON USERBOT USER",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/fff3f63dd795411428c7e.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
       "description": "Your custom pm permit msg.",
-      "value": "",
+      "value": "https://telegra.ph/file/fff3f63dd795411428c7e.jpg",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "",
+      "value": "999999",
       "required": false
     },
     "APP_ID": {
